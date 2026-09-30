@@ -1,4 +1,4 @@
-### Mancala Board Game in C++
+# Mancala Board Game in C++
 
 ## Overview
 
